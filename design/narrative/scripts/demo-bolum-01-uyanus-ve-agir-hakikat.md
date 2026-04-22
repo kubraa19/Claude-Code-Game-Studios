@@ -332,37 +332,59 @@ Gözleri — **çok ciddi**. Ama ardında sevgi var.
 
 ---
 
-### DİYALOG - ELORA (Canlı Konuşma Gibi)
+### DİYALOG - ELORA (Video Kaydı)
 
-**ELORA (sakin, ama hızlı, sanki vaktı az, sakin ağlama sesine benzer, çok yakından konuşuyor):**
+**SES KALİTESİ:** Biraz eski. Hafif parazit. Ama Elora'nın sesi çok net — çünkü çok yakından çekmiş.
 
-*"Kael, sen bu videoyu görüyorsan... ben gittim. Ama sen uyandın. Ve sen... sen beni bulacaksın, değil mi?"*
+Elora kameraya bakıyor. Rahat değil. Kameraya konuşmayı bilmiyor gibi.
 
-(Pause — duruşma)
+Birkaç saniye sessizlik. Sonra:
 
-*"419 yıl boyunca sen rüya göreceksin. Ama rüyalar gerçekten daha güzel olacak. Çünkü ben seni seviyorum. Ve sen, sen... sen gerçeksin. Her paçası senin."*
+**ELORA (düz, sakin — ama altında çok şey var):**
 
-(Ses kırılıyor — ağlama)
+*"Bu... garip. Kameraya konuşmak."*
 
-*"Beni bul, Kael. Lütfen. Seni seviyorum."*
+(Boğazını temizliyor)
 
-(Video kesiliyor. Siyah ekran.)
+*"Kael. Eğer bunu görüyorsan... uyandın demek. İyi."*
+
+(Pause. Gözleri bir yere bakıyor — kameraya değil.)
+
+*"Ben burada değilim. Muhtemelen. Ama..."*
+
+(Duraksıyor. Kelime arıyor.)
+
+*"...sen laboratuvara ilk geldiğinde, bana 'neden bu kadar çok çalışıyorsun' demiştin. Ben de 'çünkü önemli' demişim. Ve sen 'ne önemli' demiştin."*
+
+(Hafif gülümseme — ama yorgun bir gülümseme)
+
+*"Söylemedim sana. Söyleyemedim."*
+
+(Doğrudan kameraya bakıyor — ilk kez)
+
+*"Cevap buydu zaten. Sen."*
+
+(Video aniden kesiliyor. Siyah ekran.)
 
 ---
 
-### KAEL'İN YANITI - İÇ SES
+### KAEL'İN YANITI
 
-**KAEL (iç ses, sesinde kırılma, hızlı nefes):**
+Kael — **donup kalıyor**.
 
-*"ELORA! ELORA! BEN BURADA! BEN—"*
+Kelime yok. Düşünce yok. Sadece o yüz.
 
-(Sesini yükseltmeye çalışıyor — ama vücut çok zayıf, ses yok gibi çıkıyor)
+Nefes almaya çalışıyor — ama boğaz **çalışmıyor**. 419 yıl sıvıda. Kaslar kumral.
 
-*"Beni duydun mı? Beni... beni bulacağım."*
+Ses çıkarmaya çalışıyor —
 
-(Nefes — hızlı, kararlı)
+**KAEL (fısıltı, kırık, neredeyse duyulmayan):**
 
-*"Seni... seni bulacağım. Buradan çıkacağım. Her şeyi yaparım."*
+*"Elora..."*
+
+Tek kelime. Başka yok.
+
+(Uzun sessizlik. Elleri titriyor. Ama artık sadece atrofiden değil.)
 
 ---
 
