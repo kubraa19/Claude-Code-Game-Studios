@@ -21,10 +21,18 @@ biraz daha alçak — ikisi asla tam senkron değil. Fark küçüktür, ama huzu
 yaratmak için yeterlidir. Ses mühendisi bu ayrımı kasıtlı olarak korumalıdır.
 
 **Ses yönetimi kuralları:**
-- Gigglitch HİÇBİR ZAMAN bağırmaz. Şiddet, sesin yükselmesinde değil
-  sesin soğumasında gizlidir.
+- Gigglitch bağırır — ama sinirlilikten asla. Bağırışı öfkenin değil,
+  şımarıklığın ve kaprisin seslenişidir. Yaramaz bir çocuğun hiçbir
+  sebebi olmadan aniden çığlık atıp gülmesi gibi. Oyuncu bunu beklemez.
+  Bu beklenmediklik, Gigglitch'in en keskin silahıdır.
+- Bağırış kalıbı: Normal, sakin, tiz bir cümlenin TAM SONunda —
+  son kelime veya son hece birdenbire tavan yapar. Sonra hiç olmamış
+  gibi devam eder. Örnek:
+  "Seni çok merak ediyorum, Kael... gerçekten çok, çok, ÇOK!"
+  (Ardından anında eski sakin tonuna döner.)
 - Kahkahası gerçek bir neşenin yansıması değildir. Daha çok bir refleks
-  gibi duyulur — bir şeyi işleme biçimi.
+  gibi duyulur — bir şeyi işleme biçimi. Ama zaman zaman kahkaha da
+  aynı şekilde patlayıp söner.
 - Bazen cümle ortasında ses kesilir, bir tık sesi duyulur, devam eder.
   Bu bir arıza değildir. Bu bir seçimdir.
 - Kael'in adını söylerken tonu hafif değişir. Daha... tanıdık. Bu fark
