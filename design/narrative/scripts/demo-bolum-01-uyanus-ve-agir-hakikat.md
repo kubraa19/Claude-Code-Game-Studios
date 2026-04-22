@@ -2,179 +2,237 @@
 
 ---
 
-## SAHNE AÇILIŞ: KALBİN DARBESI
+## ACT 1: JUMPSCARE VE MASAYA DÜŞÜŞ
 
-**[İç Mekan — Laboratuvar Kapsülü Odası — Zamansız]**
+### SAHNE 1: KALBİN DARBESI
 
-Siyahlık.
+Siyahlık. **Kalp atışı sesi** — *Tuk-tuk. Tuk-tuk.*
 
-Sonra — **kalp atışı sesi**. Çok yakın. Tıpkı bir sonar gibi. *Tuk-tuk. Tuk-tuk.*
+Kapsülün içinde — **ılık, boğucu sıvı**. Turkuaz-yeşilimsi ışık.
 
-Kapsülün içinde — **ılık, boğucu sıvı**. Turkuaz-yeşilimsi. Işık yok, sadece fosfor rengi.
-
-Camın arkasında — **bir yüz**. Kapalı gözler. Bembeyaz cildi. Ölü gibi.
-
-Ama kalp atışı devam ediyor. *Tuk-tuk. Tuk-tuk.*
+Camın arkasında — **bir yüz**. Kapalı gözler. Ölü gibi.
 
 ---
 
-## SAHNE 1: KAPSÜLDE UYANIŞ
+### SAHNE 2: JUMPSCARE — CAM KIRIYOR VE KAN FIŞKIRIYOR
 
-Gözler — **hafif açılıyor**. Bulanık. Çok bulanık.
+Aniden — **dışarıdan iki sesli bir bağırma**.
 
-Kael — henüz **kim olduğunu bilmiyor**. Nerenin olduğunu bilmiyor.
+**BOUND 1 (kadın sesi, çığlık):**
+*"BENİ ÇIKAR!"*
 
-Sadece:
-- Sıvı
-- Sıcaklık
-- Nefesi alamamak
-- Kalp atışı
+**BOUND 2 (erkek sesi, öfkeli):**
+*"HAYIR! BEN SANA BAĞLIYIM!"*
 
-*Tuk-tuk. Tuk-tuk.*
+(İkisi — kavga ediyor)
 
 ---
 
-## SAHNE 2: DIŞARIDAN SES GELIYOR
+**ÇATAAAAAK!**
 
-Aniden — **dışarıdan, çok yakından bir ses**.
+Cam — **patlıyor**. **Two tangled bodies, sırt sırta,** Kael'in kapsülüne doğru çakılıyor.
 
-Çift-sesli. Rahatsız edici. **İki kişi, bir ağız gibi.**
-
-**BOUND 1 (tiz ses, acılı):**
-*"BEN... BEN..."*
-
-**BOUND 2 (kalın ses, öfkeli):**
-*"ÇIKAR! ÇIKAR BENİ!"*
-
-(İkisi birden, ama uyumsuz)
+Sıvı tüm tarafa çekiliyor.
 
 ---
 
-## SAHNE 3: JUMPSCARE — YARATIKLAR ODAYA DALIYOR
+### SAHNE 3: KAEL YERDE — BOUND'LAR ARKADA KAVGA EDİYOR
 
-**ÇATLAAAAAK!**
+Kael — **yerde**, kan ve kimyasal sıvı içinde.
 
-Cam — **kırılıyor**. Değil, **patlıyor**. Basınç dalgası.
-
-**İKİ VÜCUT — birbirlerinin içinden, sırt sırta, Kael'in kapsülüne doğru çakılıyor.**
-
-Sıvı — **çekiliyor**. Kael'in etrafında döner.
-
----
-
-## SAHNENİN KOKUSU VE SESI
-
-**SES:**
-- Camın kırılması
-- Sıvının çekişi
-- **İki vücudun yerde çarpması**
-- Ve hemen sonra — **bağırma**.
-
-Ama bu bağırma **normal değil**. İki sesi aynı anda, farklı hızda.
-
----
-
-## BOUND'UN TRAJEDISI
-
-**BOUND 1 (kadın sesi, çığlık atıyor):**
-*"BENİ ÇIKAR! BENİ ÇIKAR!"*
-
-**BOUND 2 (erkek sesi, acı içinde):**
-*"BEN SANA BAĞLIYIM! BİZ BİRLİKTE!"*
-
-(İkisi **birbirinden ayrılmaya çalışıyor**. Ama damarlarla bağlı. Organlarla bağlı.)
-
----
-
-## PARÇALANMA
-
-**SES:** Kemik kırılması. Doku koparılması. Kan.
-
-İkisi — **birbirlerinden kopuşu yapmaya çalışıyor**. Belki özgürleşmek için. Belki sadece acıyı bölmek için.
+Arka planda — **The Bound**, **birbirlerinden ayrılmaya çalışıyor**.
 
 **BOUND 1:**
-*"HAYIR! HAYIR! BEN YANINDA KALMAK İSTEMİYORUM!"*
+*"ÇIKART! ÇIKART BENİ!"*
 
 **BOUND 2:**
-*"HAYIR! SANA İHTİYACIM! SEN... SEN BENİM!"*
+*"HAYIR! BEN SANA BAĞLIYIM! ASLA!"*
 
-(Sesler — çelişkili. Aynı zamanda birbirine ihtiyaç ve nefret.)
+(İkisi — birbirini tutmaya, birbirini itmek için çalışıyor)
 
----
-
-Korkunç bir **çekilme ses**. Damarlar kopuyor. Kan su içine karışıyor.
-
-**BOUND — AYRILIYOR.**
+**Kael bakmıyor.** Henüz bilinç kapalı.
 
 ---
 
-## KAEL'İN PERSPEKTİFİ
+### SAHNE 4: KRİTİK AN — KAEL BAŞINI KALDIRIYOR
 
-Kael — **nefes alamıyor**.
+Zaman geçiyor. Saniye mi, dakika mı — bilinmiyor.
 
-Gözlerinin dibinde — **iki beden**, eklemlerinden ayrılmış, birbirlerine bakarak.
+Kael — **gözleri açılıyor**. Yavaş. Çok yavaş.
 
-Sessizlik.
+Ses — Bound'lardan hala gelişiyor. Çarpışma, bağırma.
 
-Sonra — **son çığlık**. İkisinin sesi, uyumsuz, **çatlamış**.
+Kael — **başını kaldırmaya çalışıyor**. Çok zorlu.
+
+Boyun kas — **atrofik**. Ağır.
 
 ---
 
-**BOUND (birlikte, son sözü):**
+**Başı, tam yukarı kalkar.**
+
+---
+
+### SAHNE 5: PARÇALANMA ANI
+
+**TAM O ANDA —**
+
+**PAAAAAAAK!**
+
+**The Bound — tam Kael'in yüzü hizasında, BIRBIRINDEN AYRILIYOR.**
+
+**Kan. Deri. Organlar. Her tarafa FİŞKIRIYOR.**
+
+Kael'in yüzüne. Gözlerine. Ağzına.
+
+---
+
+### KAEL'İN REAKSİYONU
+
+Kael — **ağzı açık**. Ses yok.
+
+Sadece **gözler açılıyor**. Daha açılıyor.
+
+Şok. Tam şok.
+
+---
+
+### BOUND'UN SON SESİ
+
+**BOUND (çatlamış, son çığlık):**
 *"BEN... BİRİ... BİRİ OLMAK İSTEDİM..."*
 
-(Sesler kesilir. Vücutlar durur. Sıvıda yüzüyorlar — ölü.)
+Sesler kesilir. Organlar yere düşüyor. Ölü.
 
 ---
 
-Kael — **ayaklarının dibinde**, iki parça. Kan. Organlar.
+Kael — **hala bakmış durumda**. Titreme başlıyor.
 
-Ve Kael — **hala nefes alamıyor**.
-
----
-
-## KAEL'İN İÇ SES
-
-*"Nedir... nedir bu? Ben... ben nerede?"*
-
-(Panik başlıyor)
-
-*"Kimim ben? Bu... bu ne?"*
-
-(Nefes — paniğe yakın, ama sıvıda. Boğuluyor.)
+Eller. Yüz. İçi.
 
 ---
 
-## ORTAM TASARIMI
+## ACT 2: MASAYA DOĞRU ILERLEME
 
-**SES:** Laboratuvar sisteminin humu. Fan sesleri. Uzaktan — elektronik sesler.
+### SAHNE 6: AYAĞA KALKMA ÇABASI
 
-**GÖRÜNTÜ:** Cam parçaları. Sıvı. Ölü vücutlar. Kael — hala kapsülde, ama şimdi **açık havaya** maruz.
+Zaman geçiyor.
 
----
+Kael — **çok yavaş hareket etmeye başlıyor**.
 
-## ACT 1 SONU — EKSİSTENSİEL KRİZİS
+Eller — **yerde bastırıyor**. Ayağa kalkması için.
 
-Kael — **ayakta kalkmaya çalışıyor**. Çok zayıf. Titriyor.
-
-İlk adımı attığında — **ölü bedenlerin üstüne basıyor**.
-
-Ve Kael — **ilk kez düşünüyor**:
-
-*"Ben kimim? Bu nedir? Neden... neden hatırlayabiliyorum ama beden çalışmıyor?"*
+**Titreme çok.** Kaslar atrofik.
 
 ---
 
-## BÖLÜM 1 — ACT 2 BAŞLAMAK ÜZERE
+**Bir adım.** Düşüyor.
 
-Kael — **kapıya doğru ilerlemeye başlıyor**.
+**İkinci adım.** Neredeyse düşüyor. Ama duruyor.
 
-Oda — **çok eski laboratuvar ofisi**. Terk edilmiş. Tozlu.
+---
+
+### SAHNE 7: MASAYA DOĞRU
+
+Kael — **masaya doğru ilerlemeye başlıyor**. Çok yavaş. Sanki su içinde yürüyor.
+
+Adımlar — **ağır**. Her adımda titreme artar.
+
+---
+
+**Masanın yanında — bir sandalye.**
+
+Kael — **sandalyeye doğru yürüyor**. Neredeyse çöküyor.
+
+---
+
+### SAHNE 8: SANDALYEYE ÇÖKÜŞ
+
+Kael — **sandalyeye çöküyor**. Oturmuyor — çöküyor.
+
+Gücü tükenmiş.
+
+Nefes — **hızlı, panikleme kenarında**.
+
+---
+
+## ACT 3: ÇERÇEVE VE ELORA
+
+### SAHNE 9: ÇERÇEVE BULMASI
+
+Masanın üzerinde — **elektronik çerçeve**. Eski model. Işık yanıyor.
+
+Kael — **çerçeveyi görüyor**. Gözleri odaklanıyor.
+
+**Titreyen elleriyle** — çerçeveyi alıyor.
+
+---
+
+### SAHNE 10: ELORA'NIN VIDEOSÜ
+
+**Çerçevede — bir yüz.**
+
+**ELORA.** Genç. Güzel. Ciddi. Ama ardında sevgi var — belki.
+
+Gözleri — Kael'i bakıyor. Ama çekilmiş bir sevgiye bakıyor.
+
+---
+
+### DİYALOG - ELORA
+
+**ELORA (çok yakından, rahat değil, kameraya konuşmayı bilmiyor):**
+
+*"Bu... garip. Kameraya konuşmak."*
+
+(Duruyor)
+
+*"Kael. Eğer bunu görüyorsan... uyandın demek."*
+
+(Gözleri bir yere bakıyor — kameraya değil)
+
+*"Ben burada değilim. Muhtemelen."*
+
+(Pause)
+
+*"Ama... sen laboratuvara ilk geldiğinde, bana 'neden bu kadar çok çalışıyorsun' demiştin. Ben de 'çünkü önemli' demişim. Sen de 'ne önemli' demiştin."*
+
+(Hafif gülümseme — çok yorgun)
+
+*"Söylemedim sana. Söyleyemedim."*
+
+(Doğrudan kameraya bakıyor — ilk kez)
+
+*"Cevap buydu zaten. Sen."*
+
+(Video kesiliyor. Siyah ekran.)
+
+---
+
+### KAEL'İN TEPKİSİ
+
+Kael — **çerçeveyi elinde tutuyor**.
+
+Titreme **çok**.
+
+Nefes — **hızlı**.
+
+**KAEL (iç ses, boğuk):**
+
+*"Elora..."*
+
+(Tek kelime)
+
+---
+
+## BÖLÜM 1 — ACT 1 SONU
+
+Kael — çerçeveyi göğsüne bastırıyor.
+
+Oda — **çok eski laboratuvar ofisi**. Terk edilmiş. Soğuk.
 
 Pencereden — **dışarı, dünya soğuk ve karanlık.**
 
+Kalp atışı — **hala duyuluyor**. *Tuk-tuk.*
+
 ---
 
-*Devamı yazılacak: ACT 2 — Fiziksel Iyileşme ve İlk Keşif*
-
-**[Bölüm 1 — ACT 1 SONU]**
+*Devamı: ACT 2 — Güçlenme, Hay atta Kalma, Gigglitch*
