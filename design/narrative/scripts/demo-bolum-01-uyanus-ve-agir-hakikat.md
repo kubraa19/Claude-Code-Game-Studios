@@ -52,19 +52,139 @@ Nefes alışı **çok hızlı**. Pan-pan-pan gibi. Panikleme sınırında.
 
 ---
 
-### SAHNE 1.1A: GÖLGESİ VURAN ŞEY
+### SAHNE 1.1A: JUMPSCARE — YARATIKLAR ODAYA DALIYOR
 
 Dışarıda — **şey** oluyor.
 
-Gölgeler **çok hızlı hareket ediyor**. Kaotik. İki tane —hayır, **üç tane** gölge, birbirlerine vuruyor.
+Gölgeler **çok hızlı hareket ediyor**. Kaotik. İki tane gölge, birbirlerine vuruyor.
 
-Sesi gelmiyor — ama **hissediliyor**. Camın titremesi.
+**SONRA —**
 
-Sonra — **çörtültü**.
+**CAM ÇATLADI VE YARATIKLAR ODAYA DALIYOR!**
 
-Bir **hırıltı** sesi. Çift-sesli. Sanki iki yaratık aynı anda ağlıyor. Biri diğerinin içinden konuşuyor.
+**SES:** Cristal sesi, su sesi, hırıltı — **hepsi birden**
 
-Kael'in nefesi **hemen kesilir**. Titreme **katlı artar**.
+**GÖRÜNTÜ:** Kael'in kapselinin yanındaki su — **aniden harekete geçiyor**. İçinden **iki tane kısmi beden** çıkıyor — sırt sırta dikilmiş, ama **birbirlerinden ayrılmaya çalışıyor**.
+
+Kael — **tam şu an bilinçli oluyor**. Gözleri açılıyor.
+
+**İLK ŞEYI GÖRDÜĞÜ:** Yaratıklar. Metrelerce uzakta değil — **Metre yarısında**. Kapselinin **içinde**!
+
+---
+
+### KAEL'İN JUMPSCARE REAKSİYONU
+
+**KAEL (iç ses, korkunç uyanış, refleks çığlığı — ama ses yok gibi çıkıyor, boğuş nefesi):**
+
+*"HAYIR! HAYIR! NE—"*
+
+(Ses kesilir — boğulmak üzere)
+
+---
+
+### SAHNE 1.1B: YARATIKLARIN KORKUNÇ SESLERI
+
+Yaratıklar — **birbilerinden ayrılmaya çalışıyor**.
+
+**BOUND 1 (tiz ses — kadın, çığlık atıyor ama çift-sesli):**
+
+*"BEN! BEN! BEN!"*
+
+(Ama ses sanki iki ağızdan geliyor — asenkron, rahatsız edici)
+
+**BOUND 2 (kalın ses — erkek, öfkeli ağlama):**
+
+*"ÇIKART! ÇIKART BENİ!"*
+
+(Sesler çarpışıyor, sanki **iki radyo frekansı aynı anda çalıyor**)
+
+---
+
+### YARATIKLARIN HAREKETİ
+
+İkisi — **birbirlerinden kopuşu yapmaya çalışıyor**.
+
+Kasları gerilir. Damarlar patlamaya hazır.
+
+**SONRA —**
+
+**Kapsülün camına çarpıyorlar.**
+
+**SES:** ÇATLAAAAAK! (Çok sert, çok keskin)
+
+Cam — **çatlamıyor, direkt parçalanıyor**.
+
+Sıvı — **Kael'in yüzüne akıyor**. Kaplıyor. Boğuluyor.
+
+---
+
+### KAEL'İN PANIK
+
+**KAEL (iç ses, tam korku, nefes kesiliş):**
+
+*"NEEE—BOFF!"*
+
+(Boğulmak)
+
+*"NE... NE OLUYOR... BEN..."*
+
+(Hava yok, su var)
+
+---
+
+### SAHNE 1.1C: YARATIKLARIN PARÇALANIŞI (KAEL'İN YANINDA)
+
+Yaratıklar — **camı kırdıktan sonra**, birbirlerinden **ayrılmaya başlıyor**.
+
+Ama ayrılmak **mümkün değil**. Damarlarla bağlı.
+
+**SES:** Organik ses — kemik kırılması, tendon koparılması, kan sesi (çok rahatsız edici)
+
+**BOUND 1 (kadın sesi, dehşet içinde):**
+
+*"BAĞLI! BAĞLI! AAAHHHHH!"*
+
+**BOUND 2 (erkek sesi, belki rahatlama, belki dehşet):**
+
+*"ÇÖKERTİ! ÇÖKERTİ! ÖZGÜR..."*
+
+(İkisinin sesleri **kesiliyor** — organ hasarı)
+
+---
+
+### ORGANLARIN SAÇILIŞI
+
+Parçalanırken — **organları su içine saçılıyor**.
+
+Kael'in **ayakları dibine** düşüyorlar.
+
+Kan — **Kael'in yüzüne** seğiriyor.
+
+**SES:** Sessizlik — ama kan ve organlar suya düşüyor — şı-şı-şı sesi.
+
+---
+
+### YARATIKLARIN SON ÇIĞLIGI
+
+**BOUND (iki ses, senkronda değil):**
+
+*"BEN... BEN... BİRİ... BİRİ..."*
+
+(Belirsiz, ızdırap, son söz)
+
+**SONRA — SESİZLİK.**
+
+---
+
+### KAEL'İN HALİ
+
+Kael — **kapselinin içinde**, kırık camın arasında, sıvının içinde, yaratıkların organlarının yanında.
+
+**Nefes — neredeyse imkansız.**
+
+Gözler — **açık, ama belki ölü** gibi.
+
+Nefesi — **hiçbir şey değil — sadece su ve ızdırap**.
 
 ---
 
